@@ -5,4 +5,5 @@ link: https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6Ojg
 
 Video: 12/15 <br>
 No se desplego por completo <br>
+Falta pasar la bd postgress por defecto
 Falta conectar bd postgress con heroku
